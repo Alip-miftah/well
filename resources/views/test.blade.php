@@ -8,7 +8,9 @@
 </head>
 <body>
     <div class="card">
-        <h1>test </h1>
+        <h1>hallo </h1>
+        <h2>nama saya daffa</h2>
+        <h2>oke</h2>
     </div>
 </body>
 </html>
