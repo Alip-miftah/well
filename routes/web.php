@@ -9,6 +9,8 @@ Route::get('/', function () {
     return view('admin.siswa.register');
 });
 
+Route::get( 'test', [SiswaController::class, 'test']);
+
 Route::get( 'siswa/tampil', [SiswaController::class, 'tampil'])->name('siswa.tampil');
 Route::get( 'siswa/tambah', [SiswaController::class, 'tambah'])->name('siswa.tambah');
 Route::post('siswa/submit', [SiswaController::class, 'submit'])->name('siswa.submit');
