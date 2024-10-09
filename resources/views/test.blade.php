@@ -8,11 +8,10 @@
 </head>
 <body>
     <div class="card">
-        <h2>Daffa ganteng banget coy</h2>
-        <h1>test </h1>
-        <p>sdadada</p>
-        <hr>
-        <b>awdadadadadawdsAdcaw</b>
+        <h1>hallo </h1>
+        <h2>nama saya daffa</h2>
+        <h2>oke</h2>
     </div>
+    <h1>saya anak rajin</h1>
 </body>
 </html>
